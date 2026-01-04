@@ -1,6 +1,9 @@
 #one type each project to start git
 git init
+
+# 2.every time to add
 git add .
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Jabed75/my-first-githup.git
